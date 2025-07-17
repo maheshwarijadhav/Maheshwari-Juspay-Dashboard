@@ -4,7 +4,7 @@ A pixel-perfect, accessible, and responsive analytics dashboard built with React
 
 ## Hosted Demo
 
-- [Live Demo on Vercel]()
+- [Live Demo on Vercel](https://maheshwari-dashboard.vercel.app/)
 
 ---
 
